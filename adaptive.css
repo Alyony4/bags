@@ -71,6 +71,9 @@
   .section1__video{
     width: 50vw;
   }
+  .container__card {
+    width: 200px;
+  }
   .cards__product{
     font-size: 22px;
   }
@@ -111,6 +114,9 @@
   }
   .section1__video{
     width: 50vw;
+  }
+  .container__card {
+    width: 200px;
   }
   .cards__product{
     font-size: 18px;
@@ -281,7 +287,7 @@
 }
 @media screen and (max-width: 480px){
   .header__link a{
-    font-size: 9.5px;
+    font-size: 8.5px;
   }
   .text{
     font-size: 15px;
@@ -341,9 +347,10 @@
 }
 .section__text_box{
   font-size: 11px;
+  width: 500px;
 }
 .section__text_box_colour{
-  font-size: 9px;
+  font-size: 8px;
 }
 .section__cards_YSL{
   padding-top: 30px;
